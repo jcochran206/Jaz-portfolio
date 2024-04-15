@@ -1,0 +1,17 @@
+/* overall styling for page and colors 
+Color palette used are: 
+Primary: #dac0a3
+Secondary: #102c57
+Accent one: #eadbc8
+Accent two: #535c91
+Background: #fefaf6
+
+Boxes for projects will have small shadow affects 
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
